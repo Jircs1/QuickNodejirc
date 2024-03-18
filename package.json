@@ -17,7 +17,7 @@
         "express": "latest",
         "mysql2": "latest",
         "connect-multiparty": "latest",
-        "trim": "latest",
+        "trim": "1.0.1",
         "htmlspecialchars": "latest",
         "md5": "latest",
         "superagent": "latest",
