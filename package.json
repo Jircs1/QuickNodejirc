@@ -20,7 +20,7 @@
         "trim": "latest",
         "htmlspecialchars": "latest",
         "md5": "latest",
-        "superagent": "latest",
+        "superagent": "8.1.2",
         "app-root-path": "latest"
     },
     "devDependencies": {
