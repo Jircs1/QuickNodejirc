@@ -15,7 +15,7 @@
     "main": "server.js",
     "dependencies": {
         "express": "latest",
-        "mysql2": "latest",
+        "mysql2": "3.9.2",
         "connect-multiparty": "latest",
         "trim": "latest",
         "htmlspecialchars": "latest",
