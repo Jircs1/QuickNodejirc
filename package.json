@@ -14,7 +14,7 @@
     "description": "A simple and easy way for you to create RESTful API on Node.js.",
     "main": "server.js",
     "dependencies": {
-        "express": "latest",
+        "express": "4.21.0",
         "mysql2": "latest",
         "connect-multiparty": "latest",
         "trim": "latest",
